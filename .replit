@@ -1,4 +1,4 @@
-entrypoint = "destructureArrays.js"
+entrypoint = "destructureObject.js"
 
 hidden = [".config"]
 
