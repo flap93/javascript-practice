@@ -1,3 +1,7 @@
+
+
+
+
 const restaurant = {
   name: 'Classico Italiano',
   location: 'Via Angelo Tavanti 23, Firenze, Italy',
@@ -20,6 +24,8 @@ const restaurant = {
     },
   },
 };
+
+
 //--------------------------------------------------------
 // TO GET THE VALUE OF THE PROPERTIES OF THE OBJECT----------------
 //-------------------------------------------------------------------
